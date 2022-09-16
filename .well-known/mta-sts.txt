@@ -1,4 +1,4 @@
 version: STSv1
 mode: enforce
-mx: deploydmarc-com.mail.protection.outlook.com
+mx: jensdesignerdeals-com.mail.protection.outlook.com
 max_age: 604800
